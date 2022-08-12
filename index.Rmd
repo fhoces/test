@@ -1,6 +1,6 @@
 ---
 title: "Minimal Example"
-author: "asda"
+author: "Gabriel Kelvin and Max Zhang"
 date: "9/28/2021"
 output: 
   html_document:
@@ -14,9 +14,8 @@ output:
   #          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
 ---
 
-
 ### Presentations are below.  
-asdasdas
+
 `01_intro.rmd` presentation [link to slides](01_intro.html) - Author (Date)  
 
 `dd-rmarkdown.rmd` presentation [link to slides](02_stats_concepts.html) - Author (Date) 
