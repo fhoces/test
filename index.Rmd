@@ -18,4 +18,5 @@ output:
 
 `01_intro.rmd` presentation [link to slides](01_intro.html) - Author (Date)  
 
-`dd-rmarkdown.rmd` presentation [link to slides](02_stats_concepts.html) - Author (Date) 
+`dd-rmarkdown.rmd` presentation [link to slides](dd-rmarkdown.html) - Author (Date) 
+
